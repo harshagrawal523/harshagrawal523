@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=harshagrawal523)
 
-- 🔭 I’m currently working on **Web Devlopment Projects**
+- 🔭 I’m currently working on **Web Devlopment Projects.**
 
 - 🌱 I’m currently learning **different tech stacks for better and efficient development.**
 
