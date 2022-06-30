@@ -21,6 +21,7 @@
 <a href="https://www.instagram.com/_agrawal_harsh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="pranshupandya8902" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh523" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranshu_pandya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harshagrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Pranshu_Pandya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harsh523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh523" height="30" width="40" /></a>
 
 
 [![Badge](https://cp-logo.vercel.app/codechef/harsh523?logo=true)]
